@@ -1,4 +1,8 @@
 # tg2obsidian
+MD_RU
+
+
+
 
 This program ("Bot") uses Telegram's free bot functionality in order to save messages from a Telegram group to the [Obsidian](https://obsidian.md) vault on your local computer.
 
